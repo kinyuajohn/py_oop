@@ -171,4 +171,4 @@ triangle(t2, "red")
 triangle(t3, "green")
 triangle(t4, "yellow")
 
-down()
+done()
